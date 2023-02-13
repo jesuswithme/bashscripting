@@ -1,0 +1,19 @@
+fcrawler.looksmart.com [26/Apr/2000:00:00:12] "GET
+/contacts.html HTTP/1.0" 200 4595 "-"
+fcrawler.looksmart.com [26/Apr/2000:00:17:19] "GET
+/news/news.html HTTP/1.0" 200 16716 "-"
+ppp931.on.bellglobal.com [26/Apr/2000:00:16:12] "GET 
+/download/windows/asctab31.zip HTTP/1.0" 200 1540096 
+"http://www.htmlgoodies.com/downloads/freeware/webdevelopment/15.html"
+123.123.123.123 [26/Apr/2000:00:23:48] "GET /pics/wpaper.gif HTTP/1.0“
+200 6248 "http://www.jafsoft.com/asctortf/"
+123.123.123.123 [26/Apr/2000:00:23:47] "GET /asctortf/ HTTP/1.0" 200 
+8130 
+"http://search.netscape.com/Computers/Data_Formats/Document/Text/RTF"
+123.123.123.123 [26/Apr/2000:00:23:48] "GET /pics/5star2000.gif 
+HTTP/1.0" 200 4005 "http://www.jafsoft.com/asctortf/"
+123.123.123.123 [26/Apr/2000:00:23:50] "GET /pics/5star.gif HTTP/1.0" 
+200 1031 "http://www.jafsoft.com/asctortf/"
+123.123.123.123 [26/Apr/2000:00:23:51] "GET /pics/a2hlogo.jpg HTTP/1.0" 
+200 4282 "http://www.jafsoft.com/asctortf/"
+

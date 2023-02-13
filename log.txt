@@ -1,0 +1,18 @@
+합계 64
+-rwxr-xr-x 1 root root  128  7월 21 00:47 1-backup_home.sh
+-rwxr-xr-x 1 root root  527  7월 21 15:59 1-backup_home_new.sh
+-rwxr-xr-x 1 root root  211  7월 20 22:02 1-creatingusers.sh
+-rwxr-xr-x 1 root root  221  7월 20 12:45 1-first_script.sh
+-rwxr-xr-x 1 root root  160  7월 20 17:27 1-variable_ex1.sh
+-rwxr-xr-x 1 root root  214  7월 20 17:35 1-variable_ex2.sh
+-rwxr-xr-x 1 root root  519  7월 21 22:03 backup_mariadb.sh
+-rwxr-xr-x 1 root root  572  7월 22 09:22 dump_mariadb.sh
+-rwxr-xr-x 1 root root  387  7월 21 22:57 insert_mariadb.sh
+-rwxr-xr-x 1 root root  160  7월 21 23:41 insertbymyself_mariadb.sh
+-rw-r--r-- 1 root root    0  7월 22 10:24 log.txt
+-rwxr-xr-x 1 root root  221  7월 20 13:41 sampletest
+-rwxr-xr-x 1 root root  219  7월 21 23:46 select_args_mariadb.sh
+-rwxr-xr-x 1 root root  138  7월 21 23:05 select_mariadb.sh
+-rwxr-xr-x 1 root root  432  7월 22 00:20 system_alert.sh
+-rwxr-xr-x 1 root root 4015  5월  8  2015 tecmint_monitor.sh
+-rw-r--r-- 1 root root  119  7월 21 22:49 test.txt

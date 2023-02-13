@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# 작성자: 이용식
+# 다음 내용은 스크립트 기본 작성법에 대한 sample이다
+clear
+
+echo "로그인한 계정은 " $LOGNAME
+echo "작업하고 있는 컴퓨터 이름은 " $HOSTNAME
+
+exit 0

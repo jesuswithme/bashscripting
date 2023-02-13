@@ -1,0 +1,50 @@
+ed -i '/^$/d' services
+cisco-ipsla     1167/sctp               # Cisco IP SLAs Control Protocol
+rcip-itu        2225/sctp               # Resource Connection Initiation Protocol
+m2ua            2904/sctp               # M2UA
+m3ua            2905/sctp               # M3UA
+megaco-h248     2944/sctp               # Megaco-H.248 text
+h248-binary     2945/sctp               # Megaco/H.248 binary
+itu-bicc-stc    3097/sctp               # ITU-T Q.1902.1/Q.2150.3
+m2pa            3565/sctp               # M2PA
+asap-sctp       3863/sctp               # asap sctp
+asap-sctp-tls   3864/sctp               # asap-sctp/tls
+diameter        3868/sctp               # DIAMETER
+a25-fap-fgw     4502/sctp               # A25 (FAP-FGW)
+ipfix           4739/sctp               # IP Flow Info Export
+ipfixs          4740/sctp               # ipfix protocol over DTLS
+avt-profile-1   5004/dccp               # RTP media data [RFC 3551, RFC-ietf-dccp-rtp-07.txt]
+avt-profile-2   5005/dccp               # RTP control protocol [RFC 3551, RFC-ietf-dccp-rtp-07.txt]
+car             5090/sctp               # Candidate AR
+cxtp            5091/sctp               # Context Transfer Protocol
+smbdirect       5445/sctp                # Server Message Block over Remote Direct Memory Access
+amqp            5672/sctp               # AMQP
+v5ua            5675/sctp               # V5UA application port
+diameters       5868/sctp               # Diameter over DTLS/SCTP
+cm              5910/sctp               # Context Management
+cpdlc           5911/sctp               # Controller Pilot Data Link Communication
+fis             5912/sctp               # Flight Information Services
+ads-c           5913/sctp               # Automatic Dependent Surveillance
+syslog-tls      6514/dccp               # Syslog over TLS
+frc-hp          6704/sctp               # ForCES HP (High Priority) channel
+frc-mp          6705/sctp               # ForCES MP (Medium Priority) channel
+frc-lp          6706/sctp               # ForCES LP (Low priority) channel
+simco           7626/sctp               # SImple Middlebox COnfiguration (SIMCO)
+pim-port        8471/sctp               # PIM over Reliable Transport
+lcs-ap          9082/sctp               # LCS Application Protocol
+aurora          9084/sctp               # IBM AURORA Performance Visualizer
+iua             9900/sctp               # IUA
+enrp-sctp       9901/sctp               # enrp server channel
+enrp-sctp-tls   9902/sctp               # enrp/tls server channel
+wmereceiving    11997/sctp              # WorldMailExpress
+wmedistribution 11998/sctp              # WorldMailExpress
+wmereporting    11999/sctp              # WorldMailExpress
+sua             14001/sctp              # SUA
+nfsrdma         20049/sctp              # Network File System (NFS) over RDMA
+rna             25471/sctp              # RNSAP User Adaptation for Iurh
+sgsap           29118/sctp              # SGsAP in 3GPP
+sbcap           29168/sctp              # SBcAP in 3GPP
+iuhsctpassoc    29169/sctp              # HNBAP and RUA Common Association
+s1-control      36412/sctp              # S1-Control Plane (3GPP)
+x2-control      36422/sctp              # X2-Control Plane (3GPP)
+m2ap            36443/sctp              # M2 Application Part

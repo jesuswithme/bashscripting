@@ -1,0 +1,5 @@
+John,29,MS,IBM,M,Married
+Barbi,45,MD,JHH,F,Single
+Mitch,33,BS,BofA,M,Single
+Tim,39,Phd,DELL,M,Married
+Lisa,22,BS,SmartDrive,F,Married
