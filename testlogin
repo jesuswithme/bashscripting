@@ -1,0 +1,14 @@
+#!/bin/bash
+
+useron() {
+  if ( who | grep "$1" > /dev/null)
+  then echo "$1 is logged in"
+  else echo "$1 is not logged in"
+  fi   
+}
+
+if test $# != 1
+then echo testlogin: username
+else useron
+fi
+
